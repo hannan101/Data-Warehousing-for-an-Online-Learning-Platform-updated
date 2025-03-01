@@ -131,9 +131,9 @@ We welcome contributions! Follow these steps:
 
 ## 📩 **Contact & Connect**  
 
-**👤 Umair**  
-📧 [Email](mailto:umairnawaz7228@gmail.com)  
-👉 [LinkedIn](https://www.linkedin.com/in/umairnawaz7228/)  
-🌐 [GitHub](https://github.com/umair7228/)  
+**👤 Abdul Hannan Shaikh**  
+📧 [Email](mailto:hannanshaikh9192@gmail.com)  
+👉 [LinkedIn](https://www.https://www.linkedin.com/in/hannan-shaikh-992a27179/)  
+🌐 [GitHub](https://github.com/hannan101)  
 
 🌟 **If you found this project useful, don't forget to ⭐ the repo!**
